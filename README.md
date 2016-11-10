@@ -2,4 +2,7 @@
 
 This is my writing area.
 
-* Computer grafic 
+* Computer Graphic
+* Game-like-application Design
+* VR industry
+* MISC
