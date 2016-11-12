@@ -25,10 +25,25 @@ Italic style *list2*
 printf(%d,1)
 ```
 
+* Keystroke
+
+<kbd>
+Keystroke
+</kbd>
+
 * Quote
 
 > President
 > Obama
+
+* Strikethrough
+
+~~Delete~~
+
+- [X]
+- [ ] ToDo
+- [ X ]
+- [X]
 
 ***
 
