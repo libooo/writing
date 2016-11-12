@@ -13,7 +13,7 @@ Format test
 
 * Strong
 
-a ** Strong ** style
+a **Strong** style
 
 * Italic
 
